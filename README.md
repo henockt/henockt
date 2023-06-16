@@ -1,7 +1,7 @@
 ### Hi there,
 
 - I am Henock.
-- I like working with back-end frameworks as Django and Flask.
+- I like working with back-end frameworks such as Django and Flask.
 - I'm currenty a CS 🖥 student at Addis Ababa University.
 
 <!--
