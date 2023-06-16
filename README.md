@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there,
+
+- I am Henock.
+- I like working with back-end frameworks like Django and Flask.
+- I'm currenty a CS 🖥 student at Addis Ababa University.
 
 <!--
 **henockt/henockt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
