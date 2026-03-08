@@ -3,6 +3,8 @@
 - I am Henock.
 - I'm currenty a CS 🖥 student at Addis Ababa University.
 
+[![An image of @henockt's Holopin badges](https://holopin.me/henockt)](https://holopin.io/@henockt)
+
 <!--
 **henockt/henockt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
